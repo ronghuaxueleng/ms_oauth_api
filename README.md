@@ -13,7 +13,7 @@
 3. **部署到 Vercel**：
    - 点击下面的按钮，一键部署到 Vercel。
 
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/HChaoHui/msOauth2api)
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=[https://github.com/HChaoHui/msOauth2api](https://github.com/ronghuaxueleng/ms_oauth_api)
 
    - 在 Vercel 部署页面，填写你的项目名称，然后点击 `Deploy` 按钮。
 
@@ -72,7 +72,7 @@
 
 ## 🤝 贡献
 
-欢迎大家贡献代码！如果你有任何问题或建议，请提交 [Issue](https://github.com/HChaoHui/msOauth2api/issues) 或联系作者邮箱：**[z@unix.xin]**。
+欢迎大家贡献代码！如果你有任何问题或建议，请提交 [Issue]([[[https://github.com/HChaoHui/msOauth2api](https://github.com/ronghuaxueleng/ms_oauth_api](https://github.com/ronghuaxueleng/ms_oauth_api](https://github.com/ronghuaxueleng/ms_oauth_api/issues) 。
 
 ## 📜 许可证
 
@@ -80,9 +80,7 @@
 
 ## 💖 支持
 
-如果你喜欢这个项目，欢迎给它一个 Star ⭐️ 或者进行赞助：
-
-![Buy](https://github.com/HChaoHui/msOauth2api/blob/main/img/Buy.JPG?raw=true)
+如果你喜欢这个项目，欢迎给它一个 Star ⭐️ 
 
 ---
 
